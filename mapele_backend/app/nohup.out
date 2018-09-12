@@ -1,0 +1,25 @@
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.15-debian (64bit) on [Wed Sep 12 10:28:35 2018] ***
+compiled with version: 6.4.0 20170724 on 26 July 2017 23:23:16
+os: Linux-4.13.0-46-generic #51-Ubuntu SMP Tue Jun 12 12:36:29 UTC 2018
+nodename: server
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /media/lipo/bak/projects/pro_ss/mapele/mapele_backend/app
+detected binary path: /usr/bin/uwsgi-core
+dropping root privileges as early as possible
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63465
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+dropping root privileges after socket binding
+dropping root privileges after plugin initialization
+The -s/--socket option is missing and stdin is not a socket.
+[uWSGI] getting INI configuration from uwsgi.ini
+unable to load configuration from mapele_backend_application
+[uWSGI] getting INI configuration from uwsgi.ini
+unable to load configuration from mapele_backend_application
